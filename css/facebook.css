@@ -15,12 +15,12 @@ body {
     border-bottom: 1px solid #133783;
 }
 
-.facebook_logo {
+.fb_logo {
     /* vertical-align: bottom; */
     margin-top: 1.9%;
 }
 
-.facebook_logo h3 {
+.fb_logo h3 {
     font-size: 275%;
     font-family: "Klavika bold", Roboto, "Freight Sans Bold", Arial, Open sans, Helvetica, Arial, sans-serif;
     font-weight: 700;
